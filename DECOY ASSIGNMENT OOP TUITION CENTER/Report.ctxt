@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Report
+comment1.params=numStudents\ numTutors\ averageMarks\ minMarks\ maxMarks\ tutorBackgrounds
+comment1.target=Report(int,\ int,\ double,\ double,\ double,\ java.util.ArrayList)
+comment2.params=
+comment2.target=int\ getNumStudents()
+comment3.params=
+comment3.target=int\ getNumTutors()
+comment4.params=
+comment4.target=double\ getAverageMarks()
+comment5.params=
+comment5.target=double\ getMinMarks()
+comment6.params=
+comment6.target=double\ getMaxMarks()
+comment7.params=
+comment7.target=java.util.ArrayList\ getTutorBackgrounds()
+numComments=8
